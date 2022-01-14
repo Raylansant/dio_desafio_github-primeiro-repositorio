@@ -19,9 +19,11 @@ A universalidade do JavaScript a torna especialmente procurada para aplicativos 
 
 ### Sass CSS
 
-![img](C:\workspace\dio_desafio_github-primeiro-repositorio\Lista GitHub\Sass CSS)
 
-######  							*Exemplo de sintaxe do Sass CSS (Imagem: Reprodução/Dev.to)*
+
+![Sass CSS](C:\workspace\dio_desafio_github-primeiro-repositorio\Lista GitHub\Sass CSS.jpeg)
+
+###### 							Exemplo de sintaxe do Sass CSS (Imagem: Reprodução/Dev.to)
 
 Uma linguagem de extensão do CSS, a Syntactically Awesome Style Sheets (SASS, na sigla em inglês; Folhas de Estilo com uma Sintaxe Incrível, em tradução livre ), tem ganhado popularidade desde a sua criação em 2006, e ficou em segundo no ranking de linguagens de programação do Brasil em 2021, de acordo com o GitHub.
 
@@ -29,9 +31,9 @@ A SASS visa tornar o processo de desenvolvimento mais simples e mais eficiente, 
 
 ### Blabe
 
-![img](C:\workspace\dio_desafio_github-primeiro-repositorio\Lista GitHub\Blabe img)
 
-			###### 			*Um programa simples em Blade. (Imagem: Reprodução/Blade Documentation)*
+
+###### 	*Um programa simples em Blade. (Imagem: Reprodução/Blade Documentation)
 
 A terceira linguagem mais popular no Brasil, de acordo com o levantamento do GitHub, é a Blade, conhecida por aumentar a produtividade, a velocidade de codificação e a facilidade de leitura do código. É uma linguagem que enfatiza o algoritmo, por isso tem um conjunto de sintaxe bem pequeno, mas poderoso.
 
@@ -45,7 +47,7 @@ Embora ela possa ser usado para criação de programas de uso geral, ela é prin
 
 ### Elixir
 
-![img](C:\workspace\dio_desafio_github-primeiro-repositorio\Lista GitHub\Elixir img)
+
 
 ###### 		*Elixir é uma linguagem surgida em 2014 e desenvolvida por brasileiros. (Imagem: Reprodução/Elixir.org)*
 
@@ -66,5 +68,10 @@ Como explicamos no começo da matéria, o ranking acima é referente as linguage
  <li><strong><em>Typescript 4</em></strong></li>
  <li><strong><em>C#</em></strong></li>
 </ol>
-
 Para mais dados referentes as linguagens de programação no mundo em 2021, [confira o relatório completo do GitHub](https://octoverse.github.com/).
+
+
+
+
+
+###### Fonte: https://canaltech.com.br/mercado/github-lista-as-5-linguagens-de-programacao-mais-usadas-no-brasil-em-2021-206445/
