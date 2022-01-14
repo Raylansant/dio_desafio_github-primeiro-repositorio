@@ -21,7 +21,7 @@ A universalidade do JavaScript a torna especialmente procurada para aplicativos 
 
 
 
-![Sass CSS](C:\workspace\dio_desafio_github-primeiro-repositorio\Lista GitHub\Sass CSS.jpeg)
+![Sass CSS](https://t.ctcdn.com.br/8X3f8FnK4lHYMlSoCUJQj2dHA3o=/10x6:526x413/i549451.jpeg)
 
 ###### 							Exemplo de sintaxe do Sass CSS (Imagem: Reprodução/Dev.to)
 
